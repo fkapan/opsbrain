@@ -58,6 +58,9 @@ Get-Content .\SHA256SUMS.txt
 ```
 
 The calculated hash must match the value in `SHA256SUMS.txt`.
+<img width="1672" height="941" alt="opsbrain-collage-operations-cockpit" src="https://github.com/user-attachments/assets/6375674d-cd04-4854-95d6-54379328625b" />
+<img width="1536" height="1024" alt="opsbrain-collage-vault-files-knowledge" src="https://github.com/user-attachments/assets/56e48784-217d-4865-a9ef-3a67b312b096" />
+
 
 ## Feedback
 
@@ -73,6 +76,7 @@ Please use GitHub Issues for reproducible bugs and product feedback. Include:
 Never include passwords, tokens, private keys, kubeconfig files, connection strings or unredacted customer data.
 
 For direct contact, replace the placeholders in `RELEASE-NOTES.md` with the maintainer's preferred GitHub username or email address before publishing the repository.
+
 
 ## License status
 
