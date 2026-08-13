@@ -2,6 +2,8 @@
 
 OpsBrain is a local-first Windows desktop assistant for system and platform engineers. It is designed for Kubernetes, OpenShift, Linux, Java applications, PostgreSQL, Oracle, Redis, RabbitMQ, SAS Viya, SAS 9.4 and related enterprise operations work.
 
+<img width="1372" height="641" alt="opsbrain-collage-context-health" src="https://github.com/user-attachments/assets/38aa52b6-0090-4588-ae01-1f99f91d5120" />
+
 This repository is a **binary distribution and feedback channel only**. The OpsBrain source code is intentionally private during the beta period. The project may become open source after the beta program is complete.
 
 ## Download
